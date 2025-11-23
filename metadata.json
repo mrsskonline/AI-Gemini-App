@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Multimodal Suite",
+  "description": "A comprehensive suite showcasing Gemini 2.5 capabilities: Real-time Live Audio conversation, Image Editing with Flash Image, and General Intelligence assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
